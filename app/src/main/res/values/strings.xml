@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Bottom Navigation Bar</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="enquiry">Enquiry fragment</string>
+    <string name="home">Home fragment</string>
+    <string name="profile">Profile fragment</string>
+    <string name="agent_home">Agent Home fragment</string>
+    <string name="agent_profile">Agent Profile fragment</string>
+    <string name="property_details">Property details fragment</string>
+    <string name="recover_password">Recover password fragment</string>
+    <string name="sign_in">Sign in fragment</string>
+    <string name="sign_up">Sign up fragment</string>
+    <string name="splash">Splash fragment</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
